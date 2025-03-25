@@ -19,8 +19,8 @@ ul {
 }
 
 body {
-  max-width: 1024px;
   margin: 0 auto;
+
 }
 
 .btn-yellow {
@@ -63,7 +63,7 @@ nav ul li.btn-grup {
 
 section,
 footer {
-  padding: 4.5rem 1rem;
+  padding: 4.5rem 5rem;
 }
 
 section#hero {
